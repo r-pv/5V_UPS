@@ -21,7 +21,7 @@
 "J3","USB_OUT","Connector_USB:USB_A_Molex_67643_Horizontal"
 "J4","USB_IN","Connector_USB:USB_Micro-B_Molex_47346-0001"
 "J5","NTC","Resistor_SMD:R_0805_2012Metric"
-"L1","2.2uH",".rpvM:Inductor-0603"
+"L1","2.2uH","MHCI06030-2R2M-R8, 0603"
 "R1","0R02","Resistor_SMD:R_1210_3225Metric"
 "R2","20K","Resistor_SMD:R_0402_1005Metric"
 "R3","120K","Resistor_SMD:R_0402_1005Metric"
