@@ -6,6 +6,6 @@ The board it's 30x30mm and it's capable of 2.5A battery charge and 2.4A boost ou
 
 <img align="top" src="USB_UPS-MP2637.jpg" />
 
-And working as a proper UPS:
+## Working as a proper UPS:
 
 <img align="top" src="USB_UPS-MP2637.UPS.png" />
